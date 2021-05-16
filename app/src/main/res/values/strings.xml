@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Todos_Jaqueline</string>
+    <string name="tdlabel">New Todo</string>
+    <string name="editT_titlle">Title</string>
+    <string name="edit_tci">Contents </string>
+    <string name="cb_complete">Completed</string>
+    <string name="btnUi">Upload Image</string>
+    <string name="btnS">Save</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

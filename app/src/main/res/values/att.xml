@@ -1,0 +1,8 @@
+<resources>
+    <declare-styleable name="MyCustomAttributes">
+        <attr name="middleBarArrowSize" format="dimension" />
+        <attr name="topBottomBarArrowSize" format="dimension" />
+        <attr name="disableChildrenWhenDisabled" format="boolean" />
+        <!-- add more here -->
+    </declare-styleable>
+</resources>
